@@ -1,4 +1,4 @@
-namePrefix: dev
+namePrefix: dev-
 commonLabels:
   env: dev
 namespace: dev
